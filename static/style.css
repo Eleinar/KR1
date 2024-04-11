@@ -1,0 +1,26 @@
+.copy {
+    background-color: #001049;
+    color: #fff;
+    padding: 15px 0;
+}
+
+footer, footer a, footer h3 {
+    color: #fff;
+}
+
+footer {
+    margin-top: 100px;
+    padding: 60px 0;
+    background: #002e60 90% 50% no-repeat;
+}
+
+article {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.uk-text-lead {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #333;
+}
